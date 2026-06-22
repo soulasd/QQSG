@@ -1,4 +1,4 @@
-# QQ三国 MMORPG 手机游戏源代码
+# 腾讯旗下手游QQ三国源代码
 # Three Kingdoms MMORPG — Enterprise Full-Stack Source Package
 
 Website: https://www.tencentcloudwork.cc
