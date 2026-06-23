@@ -1,4 +1,4 @@
-# QQ三国源代码
+# QQ三国稀有端源代码
 # Source code of mobile game QQ Three Kingdoms
 
 https://www.tencentcloudwork.cc
