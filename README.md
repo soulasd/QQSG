@@ -1,7 +1,7 @@
 # QQ三国稀有端源代码
 # Source code of mobile game QQ Three Kingdoms
 
-https://www.tencentcloudwork.cc
+https://sgonline.shop
 
 《QQ三国》是首款经典萌系横版网游，精美细腻的游戏场景，清新悠扬的古典背景音乐，可爱搞笑的骁勇悍将，唯美绚丽的动作特效，还原经典的三国战役，将带您体验无与伦比的战斗乐趣，为您重塑忍俊不禁的奇幻三国。
 
