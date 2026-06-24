@@ -1,5 +1,5 @@
 # QQ三国稀有端源代码
-# Source code of mobile game QQ Three Kingdoms of Tencent
+# Source code of mobile game QQ Three Kingdoms
 
 https://sgonline.shop
 
